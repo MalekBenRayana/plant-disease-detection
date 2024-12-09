@@ -95,7 +95,7 @@ def main():
     st.subheader("Téléchargez une image de la feuille d'une culture, et l'application prédira la maladie.")
 
     with st.sidebar:
-        st.image("C:/Users/malek/Desktop/polyy.png", use_column_width=True)
+        st.image("./images/polyy.png", use_column_width=True)
         st.markdown("")
 
         st.markdown("### 🌱 Fonctionnalités")

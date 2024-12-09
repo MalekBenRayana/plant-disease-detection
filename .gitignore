@@ -1,0 +1,12 @@
+# Ignorer le dossier de dataset
+plantvillage dataset/
+
+# Ignorer les fichiers spécifiques
+plantvillage-dataset.zip
+kaggle.json
+plant_disease_prediction_model.h5
+
+# Vous pouvez également ignorer des fichiers temporaires ou de configuration
+*.log
+*.pyc
+__pycache__/
