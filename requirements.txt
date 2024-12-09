@@ -1,0 +1,9 @@
+
+streamlit==1.38.0
+
+tensorflow== 2.18.0
+pillow
+numpy
+google-cloud-translate
+translate
+google-generativeai
